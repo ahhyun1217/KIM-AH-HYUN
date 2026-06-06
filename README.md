@@ -1,4 +1,4 @@
-# Kim Ah Hyun Academic Portfolio
+# Kim Ah Hyun _ Academic Portfolio
 
 Personal portfolio page for **Kim Ah Hyun**, undergraduate researcher in Computer
 Engineering at **Chosun University**. Research interest: **Vision-Language-Action (VLA) Models**.
