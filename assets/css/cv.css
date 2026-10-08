@@ -1,0 +1,97 @@
+/* ======= CV additions ======= */
+.lang-toggle {
+    font-size: 0.8rem;
+    letter-spacing: 0.03em;
+}
+
+.lang-toggle a {
+    color: #aab0b6;
+}
+
+.lang-toggle a.active {
+    color: #2d2d2d;
+    font-weight: 600;
+}
+
+.lang-toggle a:hover {
+    color: #2d2d2d;
+    text-decoration: none;
+}
+
+@media print {
+    .lang-toggle { display: none; }
+}
+
+
+.item-subtitle {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #6c757d;
+}
+
+.item-links a {
+    font-size: 0.82rem;
+    color: #6c757d;
+}
+
+.item-links a:hover {
+    color: #2d2d2d;
+}
+
+.resume-name-en {
+    font-size: 1.1rem;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: #9a9a9a;
+    margin-left: 0.4rem;
+}
+
+.resume-degree-note {
+    font-size: 0.75rem;
+    line-height: 1.4;
+    margin-top: 0.25rem;
+}
+
+.resume-main code {
+    font-size: 0.82rem;
+    color: #505050;
+    background: #f0f0f0;
+    padding: 0.05rem 0.3rem;
+    border-radius: 3px;
+}
+
+.resume-lang-list li b {
+    color: #3e3e3e;
+    font-weight: 600;
+}
+
+/* ======= Print (A4 / PDF) ======= */
+@media print {
+    body {
+        background: #fff;
+    }
+
+    .resume-wrapper {
+        box-shadow: none !important;
+        max-width: 100%;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    a {
+        color: #2d2d2d !important;
+    }
+
+    .item, .project-card {
+        page-break-inside: avoid;
+    }
+}
+
+.item-title .item-links {
+    font-weight: 400;
+    white-space: nowrap;
+}
+
+.resume-skills-list li > a {
+    font-weight: 700;
+}
