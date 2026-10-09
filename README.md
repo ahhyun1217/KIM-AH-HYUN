@@ -1,9 +1,11 @@
 # Kim Ah Hyun _ Academic Portfolio
 
-Personal portfolio page for **Kim Ah Hyun**, undergraduate researcher in Computer
-Engineering at **Chosun University**. Research interest: **Vision-Language-Action (VLA) Models**.
+Personal portfolio and CV for **Kim Ah Hyun**, undergraduate researcher in Computer
+Engineering at **Chosun University**. Research interests: **Robot Manipulation**,
+**Vision-Language-Action (VLA) Models**.
 
-🔗 https://ahhyun1217.github.io/KIM-AH-HYUN/
+🔗 Portfolio: https://ahhyun1217.github.io/KIM-AH-HYUN/  
+📄 CV (EN/KO): https://ahhyun1217.github.io/KIM-AH-HYUN/cv.html (Korean: [`cv.html#ko`](https://ahhyun1217.github.io/KIM-AH-HYUN/cv.html#ko))
 
 ## Run locally
 
